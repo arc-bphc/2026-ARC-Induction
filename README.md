@@ -8,7 +8,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Status-OPEN-00C853?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Deadline-31_08_2026-FF5252?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Deadline-01_09_2026-FF5252?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Trials-6-2196F3?style=for-the-badge&labelColor=0D1117"/>
 
 </p>
