@@ -1,0 +1,91 @@
+# ============================
+# OS junk
+# ============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ============================
+# Editors / IDEs
+# ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================
+# Python (Game of Life, Micromouse, ROS scripts)
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+venv/
+env/
+.venv/
+*.log
+
+# ============================
+# C++ / Arduino build artifacts
+# ============================
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.a
+*.out
+build/
+cmake-build-*/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ============================
+# ROS 2 / Docker
+# ============================
+install/
+log/
+build/
+devel/
+*.pyc
+.catkin_workspace
+docker-compose.override.yml
+
+# ============================
+# Fusion 360 / CAD
+# ============================
+*.f3z.bak
+*.f3d.bak
+*.lck
+~$*
+
+# ============================
+# Video / large media (should go on Drive, not Git)
+# ============================
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ============================
+# Office / misc temp files
+# ============================
+*.docx#
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# ============================
+# Environment / secrets
+# ============================
+.env
+*.env.local
